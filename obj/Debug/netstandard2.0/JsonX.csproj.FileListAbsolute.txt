@@ -1,0 +1,8 @@
+/home/len/dev/projects/libraries/Json/JsonX/bin/Debug/netstandard2.0/JsonX.deps.json
+/home/len/dev/projects/libraries/Json/JsonX/bin/Debug/netstandard2.0/JsonX.dll
+/home/len/dev/projects/libraries/Json/JsonX/bin/Debug/netstandard2.0/JsonX.pdb
+/home/len/dev/projects/libraries/Json/JsonX/obj/Debug/netstandard2.0/JsonX.csprojAssemblyReference.cache
+/home/len/dev/projects/libraries/Json/JsonX/obj/Debug/netstandard2.0/JsonX.AssemblyInfoInputs.cache
+/home/len/dev/projects/libraries/Json/JsonX/obj/Debug/netstandard2.0/JsonX.AssemblyInfo.cs
+/home/len/dev/projects/libraries/Json/JsonX/obj/Debug/netstandard2.0/JsonX.dll
+/home/len/dev/projects/libraries/Json/JsonX/obj/Debug/netstandard2.0/JsonX.pdb

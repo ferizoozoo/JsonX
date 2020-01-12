@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/len/dev/projects/libraries/JsonX/JsonX.csproj",
+      "projectUniqueName": "/home/len/dev/projects/libraries/Json/JsonX/JsonX.csproj",
       "projectName": "JsonX",
-      "projectPath": "/home/len/dev/projects/libraries/JsonX/JsonX.csproj",
+      "projectPath": "/home/len/dev/projects/libraries/Json/JsonX/JsonX.csproj",
       "packagesPath": "/home/len/.nuget/packages/",
-      "outputPath": "/home/len/dev/projects/libraries/JsonX/obj/",
+      "outputPath": "/home/len/dev/projects/libraries/Json/JsonX/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
